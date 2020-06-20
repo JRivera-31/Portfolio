@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+#resume {
+	text-align: center;
+}
+
 ol, ul {
 	list-style: none;
 }
