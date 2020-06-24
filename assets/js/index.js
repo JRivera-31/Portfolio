@@ -1,4 +1,5 @@
 const main = $("#main")
+const submitForm = $(".submit")
 
 $.ajax({
     url: "https://api.github.com/users/JRivera-31/repos",
@@ -15,5 +16,3 @@ $.ajax({
         }
     }
 })
-    
-    
